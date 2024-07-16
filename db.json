@@ -1,0 +1,16 @@
+{
+  "productos": [
+    {
+      "id": "1a00",
+      "nombre": "Perro",
+      "precio": "1000",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQgByBT5IiAT_a2x9pUVb4VMoOrlzHH7Jrzj-HB5jzHlR4lNLMS"
+    },
+    {
+      "id": "2bc1",
+      "nombre": "Perro 2",
+      "precio": "2000",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQgByBT5IiAT_a2x9pUVb4VMoOrlzHH7Jrzj-HB5jzHlR4lNLMS"
+    }
+  ]
+}
